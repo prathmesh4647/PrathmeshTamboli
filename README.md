@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Guidance.AI<br>🌱 I’m currently learning Data Science<br>
+🔭 I’m currently working on Guidance.AI<br>🌱 I’m currently learning Data Analysis and Data Science<br>
 
 
 ## 🌐 Socials:
