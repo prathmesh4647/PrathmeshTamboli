@@ -1,11 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on Guidance.AI<br>🌱 I’m currently learning Data Analysis and Data Science<br>
+# 💫 About Me
 
+🎓 Computer Engineering Student at Indira College of Engineering & Management
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-tamboli) 
+📊 Passionate about Data Analytics, Business Intelligence, and Data Science
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+🔭 Currently building **Guidance.AI** – an AI-powered Project Management & Evaluation Platform for Colleges
 
+🌱 Learning **Data Analytics, Power BI, SQL, Python, Machine Learning, and Data Science**
 
+🏆 Team Lead at multiple national hackathons including **Hack the Horizon 2.0 (VIT Chennai)** and **CodeLite Hackathon 2024**
+
+📈 Interested in transforming raw data into actionable insights through dashboards and analytics
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/prathmesh-tamboli)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Sales Performance Analytics Dashboard
+
+Power BI dashboard for analyzing sales trends, customer segments, regional performance, profitability, and KPI monitoring.
+
+### 📈 Data Analytics Dashboard
+
+Interactive dashboard focused on sales analysis, product performance, regional distribution, and business insights.
+
+### 🤖 Guidance.AI
+
+AI-powered centralized project repository and management platform for colleges featuring team formation, idea approval, project tracking, and faculty evaluation.
+
+### 🌾 AgroVisionAI
+
+Machine Learning-based crop price prediction system developed during CodeLite Hackathon 2024 to assist farmers in decision-making.
+
+---
+
+## 💻 Tech Stack
+
+### Analytics & BI
+
+Power BI • DAX • Power Query • SQL • MS Excel • Data Visualization
+
+### Programming
+
+Python • NumPy • Pandas • Matplotlib • Scikit-Learn
+
+### Web Development
+
+HTML • Django • PostgreSQL • Nginx • Gunicorn
+
+### Tools
+
+Git • GitHub • VS Code
+
+---
+
+## 📊 Current Focus
+
+* Power BI Dashboard Development
+* Data Analytics Projects
+* Data Science & Machine Learning
+* Guidance.AI Development
+* SQL & Business Intelligence
+
+---
+
+⭐ Always open to learning, collaboration, and building impactful technology solutions.
